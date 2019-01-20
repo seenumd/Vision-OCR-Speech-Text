@@ -1,6 +1,6 @@
 # Vision-OCR-Speech-Text
 
-##Agenda: 
+## Agenda: 
 
 1) Text to speech convertion
 2) Speech to text convertion
